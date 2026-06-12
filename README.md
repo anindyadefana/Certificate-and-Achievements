@@ -1,4 +1,4 @@
-# 🏆 Certificates & Achievements
+# 🏆 Certificate & Achievements
 
 This repository contains selected certifications and achievements that reflect my academic development, leadership experience, innovation activities, and English proficiency.
 
